@@ -1,17 +1,16 @@
 ﻿# 翻译计划
 
 ## 简介
-发起了一个翻译计划，希望可以通过这个翻译计划共同促进学习，目前参加人员都是同学，如果有希望加入的同学欢迎发送邮件。如果你发现翻译中存在的问题，请及时指出，以便我们改进变得更好。
+
+如果有希望加入的同学欢迎提交 PR。如果发现翻译中存在的问题，请及时指出，以便我们改进变得更好。
 
 ## 翻译书籍列表
-1、Coding For Pentester build better tools
 
-## 翻译人员列表
+1、Coding For Pentester build better tools - 
+2、Malware Analysis and Detection Engineering - 恶意软件分析与检测工程
 
 ## 关于术语
-我们会尽力建立一个术语字典，来解决翻译过程中遇到的标准统一问题，和 Microsoft 相关的技术可以搜索[微软官方术语检索引擎][1]
 
-## 开源协议
-暂时没有讨论出要用什么协议，将来会将许可协议上传，不会太晚
+后续会尽力建立一个术语字典，来解决翻译过程中遇到的标准统一问题，和 Microsoft 相关的技术可以搜索[微软官方术语检索引擎][1]
 
   [1]: https://www.microsoft.com/Language/zh-cn/Search.aspx
